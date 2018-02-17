@@ -46,7 +46,7 @@ namespace talks
     {
       if (args.Length == 0)
       {
-        Console.WriteLine("NOTE: Provide input csv file path.");
+        Console.WriteLine("NOTE: Provide input json file path.");
         return;
       }
 
